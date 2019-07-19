@@ -1,3 +1,5 @@
 <!--pages/home/home.wxml-->
 <text class='title'>Hello Word</text>
 <button size='mini' class='book'>按扭 </button>
+<view>2.知道点2</view>
+<view>乐呵呵</view>
